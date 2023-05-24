@@ -2,6 +2,8 @@
 
 The database is backed up and uploaded in the .bak file, and can be restored with it from the restore database wizard and using the extracted .bak file in the repo
 
+Since the output can be very large, in case i need to examine those results, i had to save them to a extrenal file from SSMS to open, as XML will not parse that much data (despite chaninging the setting for xml files to unlimited)
+
 the procedure that returns the result is called dbo.poisearch
 
 i used the bellow query to send variables to the SP:
