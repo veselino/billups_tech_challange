@@ -1,6 +1,6 @@
 # billups_tech_challange
 
-The database is backed up and uploaded in the .bak file, and can be restored with it
+The database is backed up and uploaded in the .bak file, and can be restored with it from the restore database wizard and using the extracted .bak file in the repo
 
 the procedure that returns the result is called dbo.poisearch
 
